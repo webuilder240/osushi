@@ -1,0 +1,9 @@
+{
+	"name": "oh240/osushi",
+	"autoload": {
+		"psr-0": {
+			"Osushi": "."
+		}
+	}
+
+}
